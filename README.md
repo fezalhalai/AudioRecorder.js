@@ -1,2 +1,2 @@
-# AudioRecorder.js
-AudioRecorder.js
+# AudioRecorder
+AudioRecorder
